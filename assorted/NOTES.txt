@@ -1,0 +1,1 @@
+This folder is for incidentals like LaTeX templates and other things that might be helpful later on.
