@@ -1,0 +1,19 @@
+\documentclass{article}
+\usepackage{array}      % allows m{width} in tabulars for vertical centering
+\usepackage{amsmath}    % load AMS-Math package
+\usepackage{epsfig}     % allows PostScript files
+\usepackage{listings}   % allows lstlisting environment
+\usepackage{moreverb}   % allows listinginput environment
+\usepackage{vmargin}    % allows better margins
+\setpapersize{USletter} % sets the paper size
+\setmarginsrb{1in}{0.5in}{1in}{0.2in}{12pt}{11mm}{0pt}{11mm} %sets margins 
+\title{Template}
+\begin{document}
+\begin{center}
+\maketitle
+This is some text. 
+
+\begin{enumerate}
+\item this is an item in an enumerated environment. 
+\end{enumerate}
+\end{document}
